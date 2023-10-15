@@ -2,7 +2,7 @@
 - devlarative pipeline Vs scripted pepeline
 - all jenkins environment variables
 - node pipeline example
-- Fonctions, move all stages and replace with functions
+- Functions, move all stages and replace with functions
 - credentials
 - when condition
 - if, elif and else
